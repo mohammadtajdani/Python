@@ -23,8 +23,10 @@ python Number_Guessing_Game.py
 **Example:**
 Guess the number (1-100): 50
 Too low!
+
 Guess the number (1-100): 75
 Too high!
+
 Guess the number (1-100): 68
 Correct! You guessed it in 3 attempts.
 
