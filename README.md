@@ -71,5 +71,7 @@ Do you want to chat again? (yes/no):
 ## Repository Structure
 .
 ├─ Number_Guessing_Game.py
+
 ├─ chattybot.py
+
 └─ README.txt
