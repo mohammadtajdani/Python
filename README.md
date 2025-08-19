@@ -21,13 +21,17 @@ A simple game where the computer picks a number and the player tries to guess it
 python Number_Guessing_Game.py
 
 **Example:**
+
 Guess the number (1-100): 50
+
 Too low!
 
 Guess the number (1-100): 75
+
 Too high!
 
 Guess the number (1-100): 68
+
 Correct! You guessed it in 3 attempts.
 
 ---
@@ -40,13 +44,21 @@ A console chatbot that remembers your name, gives random responses, and asks if 
 python chattybot.py
 
 **Example:**
+
 You: hi
+
 ChattyBot: Hi there! 🙂
+
 You: my name is Ali
+
 ChattyBot: Nice to meet you, Ali! 😃
+
 You: bye
+
 ChattyBot: See you later! 🙂
+
 Do you want to chat again? (yes/no):
+
 
 ---
 
